@@ -1,13 +1,15 @@
 body{
     font-family: 'Times New Roman', Times, serif;
-    color:white;
+    color:#fff;
 }
 #wrap{
     width:960px;
     margin:auto;
-    background:black;
+    background: #000;;
 }
-header nav ul li {
+header nav ul{
     list-style:none;
+}
+header nav ul li{
     display:inline-block;
 }
