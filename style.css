@@ -1,11 +1,11 @@
-h1 ul li section article aside footer{
+body{
     font-family: 'Times New Roman', Times, serif;
     color:white;
 }
 #wrap{
     width:960px;
     margin:auto;
-    background-color:black;
+    background:black;
 }
 header nav ul li {
     list-style:none;
