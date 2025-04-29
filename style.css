@@ -5,8 +5,9 @@ body h1 li section article aside footer{
 #wrap{
     width:960px;
     margin:auto;
-    background-color: black;
+    background-color:black;
 }
 header nav ul li {
     list-style:none;
+    display:inline-block;
 }
