@@ -7,6 +7,6 @@ body h1 li section article aside footer{
     margin:auto;
     background-color: black;
 }
-header nav li {
+header nav ul li {
     list-style:none;
 }
