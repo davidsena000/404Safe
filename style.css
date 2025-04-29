@@ -7,9 +7,14 @@ body{
     margin:auto;
     background: #000;;
 }
+header h1{
+    padding:10px 20px;
+}
 header nav ul{
     list-style:none;
+    padding-left:20px;
 }
 header nav ul li{
     display:inline-block;
+    margin-right: 10px;
 }
