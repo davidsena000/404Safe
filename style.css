@@ -1,7 +1,7 @@
 body{
     font-family:'Times New Roman', Times, serif;
 }
-#wrap{
+#Layout{
     width:960px;
     margin:auto;
     background:#e3e3e3;
@@ -19,5 +19,4 @@ header nav ul li a{
     font-size:18px;
     color: #000;
     text-decoration:none;
-
 }
