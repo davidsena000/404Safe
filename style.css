@@ -1,6 +1,10 @@
 header{
     text-align: center;
 }
+header h1 nav ul li{
+    display:inline-block;
+    margin-right:10px;
+}
 aside{
     float:left;
     border-right:3px solid;
