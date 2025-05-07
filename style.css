@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background-color:#fffffe;
+    color: #000000;
+    font-family: "Cal Sans", sans-serif;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+ul li {
+    margin-right: 1rem;
+}
+ul li a{
+    color: #000000;
+    text-decoration: none;
+}
+h1{
+    font-size: 3rem;
+}
+h2{
+    font-size: 1.8rem;
+}
+footer{
+    padding: 2rem;
+    border-top: 1px solid #000000;
+    margin-top: 20px;
+    text-align: center;
+}
